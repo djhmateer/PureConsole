@@ -1,6 +1,6 @@
 PureConsole
 ===========
 
-Demo PureDI (Poor Mans DI)
+Demo PureDI (Poor Mans DI) - showing a very simple way of Constructor based dependency injection
 
-Needs a c:\temp\test.txt (which can be anything)
+
